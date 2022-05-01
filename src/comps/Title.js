@@ -1,13 +1,13 @@
-import React from 'react';
+import React from "react";
 
 const Title = () => {
   return (
     <div className="title">
-      <h1>FireGram</h1>
-      <h2>Your Pictures</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h1>Clouddify</h1>
+      <h2>Shared files</h2>
+      <p>You can upload files here</p>
     </div>
-  )
-}
+  );
+};
 
 export default Title;
